@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp "libgdx-nightly-20200604/extensions/gdx-box2d/gdx-box2d-natives.jar:libgdx-nightly-20200604/gdx-backend-lwjgl-natives.jar:libgdx-nightly-20200604/gdx-natives.jar:libgdx-nightly-20200604/extensions/gdx-box2d/gdx-box2d.jar:libgdx-nightly-20200604/extensions/gdx-tools/gdx-tools.jar:libgdx-nightly-20200604/gdx-backend-lwjgl.jar:libgdx-nightly-20200604/gdx.jar:." Main MyGdxGame PlayScreen WorldCreator Player SpriteObject Hud Item ItemDef Enemy WorldContactListener Goal GameOverScreen VictoryScreen

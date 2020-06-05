@@ -1,0 +1,3 @@
+*.class
+/libgdx-nightly-20200604/*
+/assets/*
